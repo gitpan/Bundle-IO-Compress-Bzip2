@@ -1,10 +1,10 @@
                          Bundle-IO-Compress-Bzip2
 
-                               Version 2.015
+                               Version 2.017
 
-                              3rd September 2008
+                               28 March 2009
 
-       Copyright (c) 2008 Paul Marquess. All rights reserved.
+       Copyright (c) 2008-2009 Paul Marquess. All rights reserved.
           This program is free software; you can redistribute it
            and/or modify it under the same terms as Perl itself.
 

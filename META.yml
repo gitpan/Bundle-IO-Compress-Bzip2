@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Bundle-IO-Compress-Bzip2
-version:            2.033
+version:            2.034
 abstract:           Install IO::Compress::Bzip2 and dependencies
 author:
     - Paul Marquess <pmqs@cpan.org>

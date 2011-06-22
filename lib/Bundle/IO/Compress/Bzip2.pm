@@ -2,7 +2,7 @@ package Bundle::IO::Compress::Bzip2;
 
 use strict;
 
-$Bundle::IO::Compress::Bzip2::VERSION = '2.036';
+$Bundle::IO::Compress::Bzip2::VERSION = '2.037';
 
 1;
 __END__
@@ -19,11 +19,11 @@ Bundle::IO::Compress::Bzip2 - Install IO::Compress::Bzip2 and dependencies
 
 Scalar::Util
 
-Compress::Raw::Bzip2 2.036
+Compress::Raw::Bzip2 2.037
 
-Compress::Raw::Zlib 2.036
+Compress::Raw::Zlib 2.037
 
-IO::Compress::Bzip2 2.036
+IO::Compress::Bzip2 2.037
 
 =head1 AUTHOR
 

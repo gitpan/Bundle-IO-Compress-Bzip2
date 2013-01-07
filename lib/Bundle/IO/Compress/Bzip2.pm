@@ -2,7 +2,7 @@ package Bundle::IO::Compress::Bzip2;
 
 use strict;
 
-$Bundle::IO::Compress::Bzip2::VERSION = '2.059';
+$Bundle::IO::Compress::Bzip2::VERSION = '2.060';
 
 1;
 __END__
@@ -19,11 +19,11 @@ Bundle::IO::Compress::Bzip2 - Install IO::Compress::Bzip2 and dependencies
 
 Scalar::Util
 
-Compress::Raw::Bzip2 2.059
+Compress::Raw::Bzip2 2.060
 
-Compress::Raw::Zlib 2.059
+Compress::Raw::Zlib 2.060
 
-IO::Compress::Bzip2 2.059
+IO::Compress::Bzip2 2.060
 
 =head1 AUTHOR
 
@@ -35,7 +35,7 @@ See the Changes file.
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (c) 2008-2012 Paul Marquess. All rights reserved.
+Copyright (c) 2008-2013 Paul Marquess. All rights reserved.
 
 This program is free software; you can redistribute it and/or
 modify it under the same terms as Perl itself.
